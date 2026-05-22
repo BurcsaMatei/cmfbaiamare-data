@@ -16,8 +16,7 @@
     "phone": "+40756795162",
     "message": "Acesta este un mesaj de test si trebuie tratat ca atare.",
     "ip": "188.27.146.118",
-    "created_at": "2026-05-22T16:06:16.513Z",
-    "read": true
+    "created_at": "2026-05-22T16:06:16.513Z"
   },
   {
     "id": "mph44htz-s2pm0",
@@ -35,7 +34,8 @@
     "phone": "0751000000",
     "message": "Mesaj de test diagnostic - verificare API",
     "ip": "188.27.146.118",
-    "created_at": "2026-05-22T16:07:22.491Z"
+    "created_at": "2026-05-22T16:07:22.491Z",
+    "read": true
   },
   {
     "id": "mph4554o-schjl",
