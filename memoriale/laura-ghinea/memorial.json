@@ -1,0 +1,32 @@
+{
+  "slug": "laura-ghinea",
+  "full_name": "Laura Ghinea",
+  "birth_date": "1975-12-10",
+  "death_date": "2020-02-15",
+  "dedication": "Un profesor minunat",
+  "portrait_url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/laura-ghinea/portrait.webp",
+  "gallery": [
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/laura-ghinea/gallery/1779474099132-cross-is-symbol-sacrifice-christianity-jesus-christ-concept-this-statement-can-be-categorized-religion-symbolism-christianity.webp",
+      "caption": null,
+      "sort_order": 0
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/laura-ghinea/gallery/1779474103879-day-national-mourning-germany.webp",
+      "caption": null,
+      "sort_order": 1
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/laura-ghinea/gallery/1779474107884-white-rose-resting-gravestone-cemetery.webp",
+      "caption": null,
+      "sort_order": 2
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/laura-ghinea/gallery/1779474113048-woman-black-with-umbrella-cemetery-foggy-day-grieving-concept-grieving-woman-black-cemetery-foggy-day-umbrella.webp",
+      "caption": null,
+      "sort_order": 3
+    }
+  ],
+  "is_published": true,
+  "created_at": "2026-05-22T18:21:54.860Z"
+}
