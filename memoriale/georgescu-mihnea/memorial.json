@@ -1,0 +1,32 @@
+{
+  "slug": "georgescu-mihnea",
+  "full_name": "Georgescu Mihnea",
+  "birth_date": "1957-07-23",
+  "death_date": "2018-08-13",
+  "dedication": "Ne este dor de tine.",
+  "portrait_url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/georgescu-mihnea/portrait.webp",
+  "gallery": [
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/georgescu-mihnea/gallery/1779475270762-cross-is-symbol-sacrifice-christianity-jesus-christ-concept-this-statement-can-be-categorized-religion-symbolism-christianity.webp",
+      "caption": null,
+      "sort_order": 0
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/georgescu-mihnea/gallery/1779475276391-day-national-mourning-germany.webp",
+      "caption": null,
+      "sort_order": 1
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/georgescu-mihnea/gallery/1779475280570-white-rose-resting-gravestone-cemetery.webp",
+      "caption": null,
+      "sort_order": 2
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/georgescu-mihnea/gallery/1779475286824-woman-black-with-umbrella-cemetery-foggy-day-grieving-concept-grieving-woman-black-cemetery-foggy-day-umbrella.webp",
+      "caption": null,
+      "sort_order": 3
+    }
+  ],
+  "is_published": true,
+  "created_at": "2026-05-22T18:41:28.449Z"
+}
