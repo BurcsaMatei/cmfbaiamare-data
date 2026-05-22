@@ -42,7 +42,8 @@
     "phone": null,
     "message": "Mesaj test minim 10 caractere",
     "ip": "188.27.146.118",
-    "created_at": "2026-05-22T16:07:31.896Z"
+    "created_at": "2026-05-22T16:07:31.896Z",
+    "read": true
   },
   {
     "id": "mph45ewt-uelji",
@@ -51,7 +52,6 @@
     "phone": null,
     "message": "Debug message longer than 10 chars",
     "ip": "188.27.146.118",
-    "created_at": "2026-05-22T16:07:44.573Z",
-    "read": true
+    "created_at": "2026-05-22T16:07:44.573Z"
   }
 ]
