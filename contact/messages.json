@@ -25,5 +25,14 @@
     "message": "test mesaj diagnostic",
     "ip": "188.27.146.118",
     "created_at": "2026-05-22T16:07:01.703Z"
+  },
+  {
+    "id": "mph44xvf-id5ne",
+    "name": "Test Diagnostic",
+    "email": "test@test.com",
+    "phone": "0751000000",
+    "message": "Mesaj de test diagnostic - verificare API",
+    "ip": "188.27.146.118",
+    "created_at": "2026-05-22T16:07:22.491Z"
   }
 ]
