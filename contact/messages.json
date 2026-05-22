@@ -34,5 +34,14 @@
     "message": "Mesaj de test diagnostic - verificare API",
     "ip": "188.27.146.118",
     "created_at": "2026-05-22T16:07:22.491Z"
+  },
+  {
+    "id": "mph4554o-schjl",
+    "name": "Test Diagnostic 2",
+    "email": "test@test.com",
+    "phone": null,
+    "message": "Mesaj test minim 10 caractere",
+    "ip": "188.27.146.118",
+    "created_at": "2026-05-22T16:07:31.896Z"
   }
 ]
