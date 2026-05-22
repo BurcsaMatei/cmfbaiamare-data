@@ -1,0 +1,27 @@
+{
+  "slug": "jozsa-ioan",
+  "full_name": "Jozsa Ioan",
+  "birth_date": "1970-07-21",
+  "death_date": "2022-06-11",
+  "dedication": "Tata de suflet",
+  "portrait_url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/jozsa-ioan/portrait.webp",
+  "gallery": [
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/jozsa-ioan/gallery/1779468730104-prico-photo-1.webp",
+      "caption": null,
+      "sort_order": 0
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/jozsa-ioan/gallery/1779468733070-pricop-photo-2.webp",
+      "caption": null,
+      "sort_order": 1
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/jozsa-ioan/gallery/1779468739561-pricop-portret.webp",
+      "caption": null,
+      "sort_order": 2
+    }
+  ],
+  "is_published": true,
+  "created_at": "2026-05-22T16:52:21.315Z"
+}
