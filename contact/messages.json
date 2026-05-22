@@ -43,5 +43,14 @@
     "message": "Mesaj test minim 10 caractere",
     "ip": "188.27.146.118",
     "created_at": "2026-05-22T16:07:31.896Z"
+  },
+  {
+    "id": "mph45ewt-uelji",
+    "name": "Debug Test",
+    "email": "debug@test.com",
+    "phone": null,
+    "message": "Debug message longer than 10 chars",
+    "ip": "188.27.146.118",
+    "created_at": "2026-05-22T16:07:44.573Z"
   }
 ]
