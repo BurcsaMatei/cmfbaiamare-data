@@ -64,7 +64,7 @@
     "phone": "0749700049",
     "message": "Acesta este un mesaj de test",
     "ip": "188.27.145.57",
-    "read": false,
+    "read": true,
     "created_at": "2026-06-21T13:51:01.776Z"
   }
 ]
