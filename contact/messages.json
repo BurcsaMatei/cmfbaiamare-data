@@ -56,5 +56,15 @@
     "ip": "188.27.146.118",
     "created_at": "2026-05-22T16:07:44.573Z",
     "read": true
+  },
+  {
+    "id": "mqnuh5lc-pmvvy",
+    "name": "CMF Baia Mare",
+    "email": "cmfbaiamare@gmail.com",
+    "phone": "0749700049",
+    "message": "Acesta este un mesaj de test",
+    "ip": "188.27.145.57",
+    "read": false,
+    "created_at": "2026-06-21T13:51:01.776Z"
   }
 ]
