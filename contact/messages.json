@@ -67,5 +67,15 @@
     "ip": "188.27.145.57",
     "read": true,
     "created_at": "2026-06-21T13:51:01.776Z"
+  },
+  {
+    "id": "mrkz7tu5-2fg9i",
+    "name": "Lucia Radu",
+    "email": "luci.ionradu@yahoo.com",
+    "phone": "+40742589038",
+    "message": "Bună ziua ,a si dori sa fie scris pe cruce numele ,etc.si varog un preț în jur de 65 caractere .",
+    "ip": "86.92.124.175",
+    "read": false,
+    "created_at": "2026-07-14T18:20:08.525Z"
   }
 ]
