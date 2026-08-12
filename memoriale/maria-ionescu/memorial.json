@@ -1,0 +1,95 @@
+{
+  "slug": "maria-ionescu",
+  "plan": "premium",
+  "full_name": "Maria Ionescu",
+  "birth_date": "1948-02-18",
+  "death_date": "2024-06-07",
+  "dedication": "În memoria unei mame, bunici și prietene deosebite, care a știut să ofere iubire, răbdare și sprijin în fiecare etapă a vieții. Prezența ei a adus liniște și căldură în familie, iar amintirile construite împreună vor rămâne pentru totdeauna vii. Ne lipsește glasul ei, zâmbetul și felul în care reușea să îi aducă pe toți împreună. Va rămâne mereu în inimile celor care au cunoscut-o și au iubit-o.",
+  "biography": "Maria Ionescu s-a născut în anul 1951 și și-a dedicat întreaga viață familiei și oamenilor dragi. A fost cunoscută pentru firea calmă, generozitatea și grija cu care îi înconjura pe cei din jur. A muncit cu seriozitate și a construit, alături de familie, o viață bazată pe respect, responsabilitate și apropiere. Iubea întâlnirile de familie, plimbările, grădinăritul și momentele simple petrecute alături de copii și nepoți. Pentru cei care au cunoscut-o, Maria va rămâne un exemplu de bunătate și echilibru, un om care a știut să ofere fără să aștepte nimic în schimb. Amintirea ei continuă prin familia pe care a iubit-o și prin toate momentele frumoase lăsate în urmă.",
+  "portrait_url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/portrait.webp",
+  "gallery": [
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537803449-maria-ionescu-1.webp",
+      "caption": null,
+      "sort_order": 0
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537805394-maria-ionescu-2.webp",
+      "caption": null,
+      "sort_order": 1
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537807257-maria-ionescu-3.webp",
+      "caption": null,
+      "sort_order": 2
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537809048-maria-ionescu-4.webp",
+      "caption": null,
+      "sort_order": 3
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537810953-maria-ionescu-5.webp",
+      "caption": null,
+      "sort_order": 4
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537812768-maria-ionescu-6.webp",
+      "caption": null,
+      "sort_order": 5
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537814372-maria-ionescu-7.webp",
+      "caption": null,
+      "sort_order": 6
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537815848-maria-ionescu-8.webp",
+      "caption": null,
+      "sort_order": 7
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537817818-maria-ionescu-9.webp",
+      "caption": null,
+      "sort_order": 8
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537819532-maria-ionescu-10.webp",
+      "caption": null,
+      "sort_order": 9
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537821181-maria-ionescu-11.webp",
+      "caption": null,
+      "sort_order": 10
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537822898-maria-ionescu-12.webp",
+      "caption": null,
+      "sort_order": 11
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537824520-maria-ionescu-13.webp",
+      "caption": null,
+      "sort_order": 12
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537826467-maria-ionescu-14.webp",
+      "caption": null,
+      "sort_order": 13
+    },
+    {
+      "url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/gallery/1786537828242-maria-ionescu-15.webp",
+      "caption": null,
+      "sort_order": 14
+    }
+  ],
+  "video_urls": [
+    "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/video-1.mp4"
+  ],
+  "audio_url": "https://raw.githubusercontent.com/BurcsaMatei/cmfbaiamare-data/main/memoriale/maria-ionescu/audio.mp3",
+  "is_published": true,
+  "payment_status": "paid",
+  "payment_notes": "Plată integrală efectuată de familie pentru planul Premium. Memorial complet, cu galerie foto, video și fișier audio, pregătit pentru publicare.",
+  "created_at": "2026-08-12T12:30:35.794Z"
+}
