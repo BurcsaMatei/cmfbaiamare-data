@@ -46,7 +46,7 @@
   ],
   "video_urls": [],
   "audio_url": null,
-  "is_published": true,
+  "is_published": false,
   "payment_status": "paid",
   "payment_notes": "Nu este cazul.",
   "created_at": "2026-06-30T22:12:07.577Z"
